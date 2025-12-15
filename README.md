@@ -1,7 +1,7 @@
 # Programming Languages Popularity Analysis
 
 ## Overview
-This project analyzes the popularity trends of various programming languages using a dataset exported from Stack Overflow.  
+This project uses a Jupyter Notebook to analyze popularity trends of various programming languages based on a dataset exported from Stack Overflow.
 The notebook performs exploratory data analysis to understand:
 
 - How usage of different programming languages changes over time  
